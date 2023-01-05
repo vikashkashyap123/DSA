@@ -10,7 +10,7 @@ int main(){
     //     cout<<vowels[i]<<" ";
     // }
                                    // for each loop
-    // for(char elements:vowels){
+    // for(char &elements:vowels){
     //     cin>>elements;
     // }
     // for(int i=0;i<=4;i++){
