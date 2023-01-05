@@ -1,4 +1,4 @@
-// searching 11 in the array. if it there, print index position else print -1.
+// searching 11 in the array. if it is there, print index position else print -1.
 #include <iostream>
 using namespace std;
 int main(){
