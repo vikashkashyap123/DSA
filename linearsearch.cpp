@@ -10,6 +10,7 @@ int main(){
     for(int i=0;i<size;i++){
         if(array[i]==key){
             ans=i;
+            break;
         }
     }
     cout<<ans<<endl;
