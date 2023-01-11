@@ -1,5 +1,5 @@
 // count the number of triplets whose sum is equal to the given value x.
-// 1 3 5 4 5 6   target_sum=
+// 3 2 1 4 0 6       target_sum=6  here 3+2+1 =6 , 2+4+0=6  output=2
 #include <iostream>
 using namespace std;
 int main(){
