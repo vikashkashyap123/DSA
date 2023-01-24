@@ -1,3 +1,8 @@
+// Given an array of integers of size n.Answer q queries where you need to print the
+//  sum of values in a given range of indices from l to r(both included).
+
+// NOTE-  the values of l and r in queries follow 1-based indexing .
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -13,7 +18,7 @@ using namespace std;
 // ans=v[5]-v[1]=15-5=10
 
 // l=5  r=4
-// ans=v[4]-v[4]=11-11=0
+// ans=v[4]-v[4]=11-11 =0
 
 
 int main(){
