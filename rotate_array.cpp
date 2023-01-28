@@ -20,7 +20,7 @@ int main(){
         j++;
     }
     //inserting first n-k elements in ans array.
-    for(int i=0;i<=k;i++){          //i<=n-k  or i<=k
+    for(int i=0;i<=k;i++){          //i<n-k  or i<=k
         ansarray[j]=array[i];
         j++;
     }
